@@ -1,0 +1,212 @@
+Test started: testGetHotels
+Test Passed: testGetHotels
+All tests finished: Almosafer-laihzawaneh
+Test started: testGetHotels
+Test Passed: testGetHotels
+All tests finished: Almosafer-laihzawaneh
+Test started: testGetHotels
+Test Passed: testGetHotels
+All tests finished: Almosafer-laihzawaneh
+Test started: testGetHotels
+Test Passed: testGetHotels
+All tests finished: HotelsBySearchTest
+Test started: testGetHotels
+Test Passed: testGetHotels
+All tests finished: HotelsBySearchTest
+Test started: testGetHotels
+Test Passed: testGetHotels
+All tests finished: Almosafer-laihzawaneh
+Test started: testGetHotels
+Test Passed: testGetHotels
+Test started: testGetHotels2
+Test Passed: testGetHotels2
+All tests finished: Almosafer-laihzawaneh
+Test started: testGetHotels
+Test Passed: testGetHotels
+Test started: testGetHotels2
+Test Passed: testGetHotels2
+All tests finished: Almosafer-laihzawaneh
+Test started: testGetHotels
+Test Passed: testGetHotels
+Test started: testGetHotels2
+Test Passed: testGetHotels2
+All tests finished: Almosafer-laihzawaneh
+Test started: testGetHotels
+Test Passed: testGetHotels
+Test started: testGetHotels2
+Test Passed: testGetHotels2
+All tests finished: Almosafer-laihzawaneh
+Test started: testGetHotels
+Test Passed: testGetHotels
+Test started: testGetHotels2
+Test Passed: testGetHotels2
+All tests finished: Almosafer-laihzawaneh
+Test started: testGetHotels
+Test Failed: testGetHotels. Error: java.lang.NullPointerException: Cannot invoke "generateValidRequestBody()" because "this.hotelsBySearchPage" is null
+All tests finished: Almosafer-laihzawaneh
+Test started: testGetHotels
+Test Failed: testGetHotels. Error: java.lang.NullPointerException: Cannot invoke "generateValidRequestBody()" because "this.hotelsBySearchPage" is null
+All tests finished: Almosafer-laihzawaneh
+Test started: testGetHotels
+Test Failed: testGetHotels. Error: java.lang.NullPointerException: Cannot invoke "generateValidRequestBody()" because "this.hotelsBySearchPage" is null
+All tests finished: Almosafer-laihzawaneh
+Test started: testGetHotels
+Test Failed: testGetHotels. Error: java.lang.NullPointerException: Cannot invoke "generateValidRequestBody()" because "this.hotelsBySearchPage" is null
+All tests finished: Almosafer-laihzawaneh
+Test started: testGetHotels
+Test Passed: testGetHotels
+All tests finished: Almosafer-laihzawaneh
+Test started: testGetHotels
+Test Passed: testGetHotels
+Test started: testGetHotels2
+Test Passed: testGetHotels2
+All tests finished: Almosafer-laihzawaneh
+Test started: testGetHotels
+Test Passed: testGetHotels
+Test started: testGetHotels2
+Test Passed: testGetHotels2
+All tests finished: Almosafer-laihzawaneh
+Test started: testValidStatusCode
+Test Passed: testValidStatusCode
+All tests finished: Almosafer-laihzawaneh
+Test started: testInvalidStatusCode
+Test Failed: testInvalidStatusCode. Error: java.lang.AssertionError: expected object to not be null
+All tests finished: Almosafer-laihzawaneh
+Test started: testInvalidStatusCode
+Test Passed: testInvalidStatusCode
+All tests finished: Almosafer-laihzawaneh
+Test started: testInvalidStatusCode
+Test Failed: testInvalidStatusCode. Error: java.lang.AssertionError: expected [400] but found [200]
+All tests finished: Almosafer-laihzawaneh
+Test started: testInvalidStatusCode
+Test Failed: testInvalidStatusCode. Error: java.lang.AssertionError: expected [400] but found [200]
+All tests finished: Almosafer-laihzawaneh
+Test started: testInvalidStatusCode
+Test Failed: testInvalidStatusCode. Error: java.lang.NullPointerException: Cannot invoke "common.ApiVariables.isBadRequest()" because "this.apiVariables" is null
+All tests finished: Almosafer-laihzawaneh
+Test started: testInvalidStatusCode
+Test Passed: testInvalidStatusCode
+All tests finished: Almosafer-laihzawaneh
+Test started: testInvalidToken
+Test Passed: testInvalidToken
+All tests finished: Almosafer-laihzawaneh
+Test started: testEmptyBody
+Test Passed: testEmptyBody
+All tests finished: Almosafer-laihzawaneh
+Test started: testHotelIdsPresence
+Test Failed: testHotelIdsPresence. Error: java.lang.NullPointerException: Cannot invoke "io.restassured.response.Response.jsonPath()" because "this.response" is null
+All tests finished: Almosafer-laihzawaneh
+Test started: testHotelIdsPresence
+Test Passed: testHotelIdsPresence
+All tests finished: Almosafer-laihzawaneh
+Test started: testValidStatusCode
+Test Passed: testValidStatusCode
+All tests finished: Almosafer-laihzawaneh
+Test started: testInvalidCheckInDate
+Test Passed: testInvalidCheckInDate
+All tests finished: Almosafer-laihzawaneh
+Test started: testEmptyBody
+Test Passed: testEmptyBody
+Test started: testInvalidCheckInDate
+Test Passed: testInvalidCheckInDate
+Test started: testInvalidToken
+Test Passed: testInvalidToken
+Test started: testValidStatusCode
+Test Passed: testValidStatusCode
+All tests finished: Almosafer-laihzawaneh
+Test started: testEmptyBody
+Test Passed: testEmptyBody
+Test started: testInvalidCheckInDate
+Test Passed: testInvalidCheckInDate
+Test started: testInvalidToken
+Test Passed: testInvalidToken
+Test started: testValidStatusCode
+Test Passed: testValidStatusCode
+All tests finished: Almosafer-laihzawaneh
+Test started: testEmptyBody
+Test Passed: testEmptyBody
+Test started: testInvalidCheckInDate
+Test Passed: testInvalidCheckInDate
+Test started: testInvalidToken
+Test Passed: testInvalidToken
+Test started: testValidStatusCode
+Test Passed: testValidStatusCode
+All tests finished: Almosafer-laihzawaneh
+Test started: testGetCurrencies
+Test Passed: testGetCurrencies
+All tests finished: Almosafer-laihzawaneh
+Test started: testGetCurrencies
+Test Failed: testGetCurrencies. Error: java.lang.AssertionError: expected [200] but found [401]
+All tests finished: Almosafer-laihzawaneh
+Test started: testGetCurrencies
+Test Passed: testGetCurrencies
+All tests finished: Almosafer-laihzawaneh
+Test started: testGetCurrencies
+Test Passed: testGetCurrencies
+All tests finished: Almosafer-laihzawaneh
+Test started: testGetCurrencies
+Test Passed: testGetCurrencies
+All tests finished: Almosafer-laihzawaneh
+Test started: testValidateCurrencyDateFormat
+Test Failed: testValidateCurrencyDateFormat. Error: java.lang.ClassCastException: class java.util.LinkedHashMap cannot be cast to class org.json.JSONObject (java.util.LinkedHashMap is in module java.base of loader 'bootstrap'; org.json.JSONObject is in unnamed module of loader 'app')
+All tests finished: Almosafer-laihzawaneh
+Test started: testValidateCurrencyDateFormat
+Test Failed: testValidateCurrencyDateFormat. Error: java.lang.ClassCastException: class java.util.LinkedHashMap cannot be cast to class org.json.JSONObject (java.util.LinkedHashMap is in module java.base of loader 'bootstrap'; org.json.JSONObject is in unnamed module of loader 'app')
+All tests finished: Almosafer-laihzawaneh
+Test started: testValidateCurrencyDateFormat
+Test Failed: testValidateCurrencyDateFormat. Error: java.lang.ClassCastException: class java.util.LinkedHashMap cannot be cast to class org.json.JSONObject (java.util.LinkedHashMap is in module java.base of loader 'bootstrap'; org.json.JSONObject is in unnamed module of loader 'app')
+All tests finished: Almosafer-laihzawaneh
+Test started: testValidateCurrencyDateFormat
+Test Passed: testValidateCurrencyDateFormat
+All tests finished: Almosafer-laihzawaneh
+Test started: testGetCurrencies
+Test Passed: testGetCurrencies
+Test started: testValidateCurrencyDateFormat
+Test Passed: testValidateCurrencyDateFormat
+Test started: testValidateCurrencyRateAED
+Test Failed: testValidateCurrencyRateAED. Error: java.lang.ClassCastException: class java.lang.Float cannot be cast to class java.lang.Double (java.lang.Float and java.lang.Double are in module java.base of loader 'bootstrap')
+All tests finished: Almosafer-laihzawaneh
+Test started: testGetCurrencies
+Test Passed: testGetCurrencies
+Test started: testValidateCurrencyDateFormat
+Test Passed: testValidateCurrencyDateFormat
+Test started: testValidateCurrencyRateAED
+Test Failed: testValidateCurrencyRateAED. Error: java.lang.AssertionError: Rate for AED currency is incorrect! expected [true] but found [false]
+All tests finished: Almosafer-laihzawaneh
+Test started: testCurrencyRateForAED
+Test Failed: testCurrencyRateForAED. Error: java.lang.AssertionError: Rate for AED currency is incorrect! expected [0.97869] but found [0.9786900281906128]
+Test started: testGetCurrencies
+Test Passed: testGetCurrencies
+Test started: testValidateCurrencyDateFormat
+Test Passed: testValidateCurrencyDateFormat
+All tests finished: Almosafer-laihzawaneh
+Test started: testCurrencyRateForAED
+Test Passed: testCurrencyRateForAED
+Test started: testGetCurrencies
+Test Passed: testGetCurrencies
+Test started: testValidateCurrencyDateFormat
+Test Passed: testValidateCurrencyDateFormat
+All tests finished: Almosafer-laihzawaneh
+Test started: testCurrencyRateForAED
+Test Passed: testCurrencyRateForAED
+Test started: testGetCurrencies
+Test Passed: testGetCurrencies
+Test started: testValidateCurrencyDateFormat
+Test Passed: testValidateCurrencyDateFormat
+All tests finished: Almosafer-laihzawaneh
+Test started: testEmptyBody
+Test Passed: testEmptyBody
+Test started: testInvalidCheckInDate
+Test Passed: testInvalidCheckInDate
+Test started: testInvalidToken
+Test Passed: testInvalidToken
+Test started: testValidStatusCode
+Test Passed: testValidStatusCode
+All tests finished: Almosafer-laihzawaneh
+Test started: testCurrencyRateForAED
+Test Passed: testCurrencyRateForAED
+Test started: testGetCurrencies
+Test Passed: testGetCurrencies
+Test started: testValidateCurrencyDateFormat
+Test Passed: testValidateCurrencyDateFormat
+All tests finished: Almosafer-laihzawaneh
